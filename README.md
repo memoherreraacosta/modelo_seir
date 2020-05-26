@@ -1,7 +1,7 @@
 # Modelo de comportamiento del virus SARS-CoV2 como caso de estudio
 
 ----------
-## Materia: Curso de M√©todos Cuantitativos y Simulac√n
+## Materia: Curso de Metodos Cuantitativos y Simulacion
 
 
 ##
