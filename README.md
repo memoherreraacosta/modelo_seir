@@ -5,9 +5,9 @@
 
 
 ##
-- [Guillermo Herrera](https://github.com/memoherreraacosta/) A01400835
+- [Guillermo Herrera](https://github.com/memoherreraacosta/)   |   A01400835
 
-- [Daniela Gonzalez](https://github.com/Guemez) a01632704
+- [Daniela Gonzalez](https://github.com/Guemez)   |   A01632704
 
 ## Descripcion del proyecto
 
