@@ -1,7 +1,8 @@
 # Modelo de comportamiento del virus SARS-CoV2 como caso de estudio
 
 ----------
-## Materia: Curso de Métodos Cuantitativos y Simulacin
+## Materia: Curso de Métodos Cuantitativos y Simulac�n
+
 
 ##
 - [Guillermo Herrera](https://github.com/memoherreraacosta/) A01400835
