@@ -13,3 +13,7 @@
 
 - Descripción del proyecto dado a las aplicaciones de las cadenas de Markov e modelación del comportamiento de un virus
 
+## Modelo
+
+- [Modelo SIER](https://github.com/memoherreraacosta/modelo_seir/blob/master/Model_refactored_by_Daniela.ipynb)
+
