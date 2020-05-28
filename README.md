@@ -16,4 +16,8 @@
 ## Modelo
 
 - [Modelo SIER](https://github.com/memoherreraacosta/modelo_seir/blob/master/Model_refactored_by_Daniela.ipynb)
+- [Presentacion](files/presentacion.pdf)
+
+![realpythonimage](files/stat.webp)
+*Real Python image by [Real Python][rp]*
 
